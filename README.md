@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... Cloud Computing
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email](jaswantharyaa@gmail.com)
+- 📫 How to reach me: ... [M. Jaswanth](mailto:jaswantharyaa@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I play Flute 
 -->
