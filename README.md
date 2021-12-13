@@ -10,7 +10,8 @@ I'm a self-taught passionate Engineer from India 🇮🇳
 
 - ❤️ I love writing JavaScript, and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://twitter.com/Jaswantharya18)
+- 💬 Ask me about anything [here](https://jasprofile.vercel.app/)
+
 - ⚡ Fun fact: I play Flute
 
 
